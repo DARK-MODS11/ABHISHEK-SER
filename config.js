@@ -8,8 +8,8 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
 //▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮WHATSAPP US : +91 8943735761
+//▮YOUTUBE CHANNELL: https://youtube.com/@exmodzofc4699
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -37,14 +37,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['919074692450','']
-global.premium = ['919074692450','919074692450']
+global.owner = ['918943735764','']
+global.premium = ['918943735761','9189437357614']
 global.botname = 'ABHISHEK-SER'
-global.ownername = 'Abhishek Suresh'
-global.group1 = 'https://chat.whatsapp.com/B7QtwpUd2RMAVQ57KzosBj'
-global.group2 = 'https://chat.whatsapp.com/B7QtwpUd2RMAVQ57KzosBj'
+global.ownername = 'ABHI SER'
+global.group1 = 'https://chat.whatsapp.com/HFFJD3OGqM2EeqCqDiMMZg'
+global.group2 = 'https://chat.whatsapp.com/C2AcuZi7ZSiHFDHj8ms13Z'
 global.packname = 'ABHISHEK-SER'
-global.ytchannel = 'https://youtube.com/@comedymelodych8468'
+global.ytchannel = 'https://youtube.com/@exmodzofc4699'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -65,7 +65,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'Abhishek Suresh'
+global.author = 'ABHI SER'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
